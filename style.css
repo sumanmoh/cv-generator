@@ -1,0 +1,13 @@
+#cv-form{
+    display: none;
+}
+
+.myimg{
+    padding-top: 5px;
+    width: 200px;
+    border-radius: 100%;
+}
+
+.background{
+    background-color: aqua;
+}
