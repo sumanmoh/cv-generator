@@ -8,6 +8,15 @@
     border-radius: 100%;
 }
 
+.heading1{
+    font-family: sans-serif;
+    
+}
+
+.con{
+    background-color: gainsboro;
+}
+
 .background{
     background-color: aqua;
 }
